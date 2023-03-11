@@ -1,0 +1,454 @@
+# depslib dependency file v1.0
+1589847653 source:c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa4\hoy\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<mem.h>
+	"lista.h"
+	"nodo.h"
+
+1589841855 c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa4\hoy\lista.h
+	"nodo.h"
+
+1588402548 c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa4\hoy\nodo.h
+
+1589847280 source:c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa4\hoy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Tokens.h"
+	"pila.h"
+	"lista.h"
+	"posfija.h"
+
+1588809707 c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa4\hoy\tokens.h
+
+1588806996 c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa4\hoy\pila.h
+
+1589840313 c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa4\hoy\posfija.h
+
+1589846395 source:c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa4\hoy\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+
+1589844910 source:c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa4\hoy\pila.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"pila.h"
+
+1589847882 source:c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa4\hoy\posfija.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"lista.h"
+	"pila.h"
+	"Tokens.h"
+	"posfija.h"
+
+1589846395 source:c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa4\hoy\tokens.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Tokens.h"
+
+1589929805 source:c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa4\hoy\posfija\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<mem.h>
+	"lista.h"
+	"nodo.h"
+
+1589841855 c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa4\hoy\posfija\lista.h
+	"nodo.h"
+
+1588402548 c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa4\hoy\posfija\nodo.h
+
+1589847280 source:c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa4\hoy\posfija\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Tokens.h"
+	"pila.h"
+	"lista.h"
+	"posfija.h"
+
+1588809707 c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa4\hoy\posfija\tokens.h
+
+1588806996 c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa4\hoy\posfija\pila.h
+
+1589934080 c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa4\hoy\posfija\posfija.h
+
+1589846395 source:c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa4\hoy\posfija\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+
+1589844910 source:c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa4\hoy\posfija\pila.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"pila.h"
+
+1589934063 source:c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa4\hoy\posfija\posfija.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"lista.h"
+	"pila.h"
+	"Tokens.h"
+	"posfija.h"
+
+1589930281 source:c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa4\hoy\posfija\tokens.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Tokens.h"
+
+1589929805 source:c:\users\azula\desktop\posfija\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<mem.h>
+	"lista.h"
+	"nodo.h"
+
+1589841855 c:\users\azula\desktop\posfija\lista.h
+	"nodo.h"
+
+1588402548 c:\users\azula\desktop\posfija\nodo.h
+
+1590489105 source:c:\users\azula\desktop\posfija\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Tokens.h"
+	"pila.h"
+	"lista.h"
+	"posfija.h"
+	"operacion.h"
+
+1588809707 c:\users\azula\desktop\posfija\tokens.h
+
+1588806996 c:\users\azula\desktop\posfija\pila.h
+
+1589934080 c:\users\azula\desktop\posfija\posfija.h
+
+1589846395 source:c:\users\azula\desktop\posfija\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+
+1589844910 source:c:\users\azula\desktop\posfija\pila.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"pila.h"
+
+1589934063 source:c:\users\azula\desktop\posfija\posfija.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"lista.h"
+	"pila.h"
+	"Tokens.h"
+	"posfija.h"
+
+1589930281 source:c:\users\azula\desktop\posfija\tokens.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Tokens.h"
+
+1590287996 c:\users\azula\desktop\posfija\operacion.h
+
+1590523303 source:c:\users\azula\desktop\posfija\operacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	"pila.h"
+	"lista.h"
+	"Tokens.h"
+
+1589929805 source:c:\users\azula\desktop\etapa5_prueba\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<mem.h>
+	"lista.h"
+	"nodo.h"
+
+1589841855 c:\users\azula\desktop\etapa5_prueba\lista.h
+	"nodo.h"
+
+1588402548 c:\users\azula\desktop\etapa5_prueba\nodo.h
+
+1590489105 source:c:\users\azula\desktop\etapa5_prueba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Tokens.h"
+	"pila.h"
+	"lista.h"
+	"posfija.h"
+	"operacion.h"
+
+1588809707 c:\users\azula\desktop\etapa5_prueba\tokens.h
+
+1588806996 c:\users\azula\desktop\etapa5_prueba\pila.h
+
+1589934080 c:\users\azula\desktop\etapa5_prueba\posfija.h
+
+1590287996 c:\users\azula\desktop\etapa5_prueba\operacion.h
+
+1589846395 source:c:\users\azula\desktop\etapa5_prueba\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+
+1589844910 source:c:\users\azula\desktop\etapa5_prueba\pila.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"pila.h"
+
+1589934063 source:c:\users\azula\desktop\etapa5_prueba\posfija.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"lista.h"
+	"pila.h"
+	"Tokens.h"
+	"posfija.h"
+
+1589930281 source:c:\users\azula\desktop\etapa5_prueba\tokens.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Tokens.h"
+
+1590526542 source:c:\users\azula\desktop\etapa5_prueba\operacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	"pila.h"
+	"lista.h"
+	"Tokens.h"
+
+1589929806 source:c:\users\1043963\downloads\etapa5_prueba\etapa5_prueba\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<mem.h>
+	"lista.h"
+	"nodo.h"
+
+1589841856 c:\users\1043963\downloads\etapa5_prueba\etapa5_prueba\lista.h
+	"nodo.h"
+
+1588402550 c:\users\1043963\downloads\etapa5_prueba\etapa5_prueba\nodo.h
+
+1590627892 source:c:\users\1043963\downloads\etapa5_prueba\etapa5_prueba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Tokens.h"
+	"pila.h"
+	"lista.h"
+	"posfija.h"
+	"operacion.h"
+
+1588809708 c:\users\1043963\downloads\etapa5_prueba\etapa5_prueba\tokens.h
+
+1588806998 c:\users\1043963\downloads\etapa5_prueba\etapa5_prueba\pila.h
+
+1589934082 c:\users\1043963\downloads\etapa5_prueba\etapa5_prueba\posfija.h
+
+1590621877 c:\users\1043963\downloads\etapa5_prueba\etapa5_prueba\operacion.h
+
+1589846396 source:c:\users\1043963\downloads\etapa5_prueba\etapa5_prueba\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+
+1590629115 source:c:\users\1043963\downloads\etapa5_prueba\etapa5_prueba\operacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	"pila.h"
+	"lista.h"
+	"Tokens.h"
+	"operacion.h"
+
+1589844912 source:c:\users\1043963\downloads\etapa5_prueba\etapa5_prueba\pila.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"pila.h"
+
+1589934064 source:c:\users\1043963\downloads\etapa5_prueba\etapa5_prueba\posfija.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"lista.h"
+	"pila.h"
+	"Tokens.h"
+	"posfija.h"
+
+1589930282 source:c:\users\1043963\downloads\etapa5_prueba\etapa5_prueba\tokens.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Tokens.h"
+
+1589929806 source:c:\users\azula\desktop\etapa5\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<mem.h>
+	"lista.h"
+	"nodo.h"
+
+1589841856 c:\users\azula\desktop\etapa5\lista.h
+	"nodo.h"
+
+1588402550 c:\users\azula\desktop\etapa5\nodo.h
+
+1590632251 source:c:\users\azula\desktop\etapa5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Tokens.h"
+	"pila.h"
+	"lista.h"
+	"posfija.h"
+	"operacion.h"
+
+1588809708 c:\users\azula\desktop\etapa5\tokens.h
+
+1588806998 c:\users\azula\desktop\etapa5\pila.h
+
+1589934082 c:\users\azula\desktop\etapa5\posfija.h
+
+1590621877 c:\users\azula\desktop\etapa5\operacion.h
+
+1589846396 source:c:\users\azula\desktop\etapa5\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+
+1590636815 source:c:\users\azula\desktop\etapa5\operacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	"pila.h"
+	"lista.h"
+	"Tokens.h"
+	"operacion.h"
+
+1589844912 source:c:\users\azula\desktop\etapa5\pila.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"pila.h"
+
+1589934064 source:c:\users\azula\desktop\etapa5\posfija.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"lista.h"
+	"pila.h"
+	"Tokens.h"
+	"posfija.h"
+
+1589930282 source:c:\users\azula\desktop\etapa5\tokens.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Tokens.h"
+
+1589929806 source:c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa5\etapa5-versionaenviar\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<mem.h>
+	"lista.h"
+	"nodo.h"
+
+1589841856 c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa5\etapa5-versionaenviar\lista.h
+	"nodo.h"
+
+1588402550 c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa5\etapa5-versionaenviar\nodo.h
+
+1590632251 source:c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa5\etapa5-versionaenviar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Tokens.h"
+	"pila.h"
+	"lista.h"
+	"posfija.h"
+	"operacion.h"
+
+1588809708 c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa5\etapa5-versionaenviar\tokens.h
+
+1588806998 c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa5\etapa5-versionaenviar\pila.h
+
+1589934082 c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa5\etapa5-versionaenviar\posfija.h
+
+1590621877 c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa5\etapa5-versionaenviar\operacion.h
+
+1589846396 source:c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa5\etapa5-versionaenviar\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+
+1590636815 source:c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa5\etapa5-versionaenviar\operacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	"pila.h"
+	"lista.h"
+	"Tokens.h"
+	"operacion.h"
+
+1589844912 source:c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa5\etapa5-versionaenviar\pila.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"pila.h"
+
+1589934064 source:c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa5\etapa5-versionaenviar\posfija.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"lista.h"
+	"pila.h"
+	"Tokens.h"
+	"posfija.h"
+
+1589930282 source:c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa5\etapa5-versionaenviar\tokens.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Tokens.h"
+

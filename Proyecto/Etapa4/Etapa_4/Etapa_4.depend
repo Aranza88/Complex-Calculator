@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1589838884 source:c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa4\etapa_4\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<mem.h>
+	"lista.h"
+	"nodo.h"
+
+1588402446 c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa4\etapa_4\lista.h
+	"nodo.h"
+
+1588402548 c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa4\etapa_4\nodo.h
+
+1589838869 source:c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa4\etapa_4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Tokens.h"
+	"pila.h"
+	"lista.h"
+	"posfija.h"
+
+1588809707 c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa4\etapa_4\tokens.h
+
+1588806996 c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa4\etapa_4\pila.h
+
+1589839990 c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa4\etapa_4\posfija.h
+
+1588811082 source:c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa4\etapa_4\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+
+1588807044 source:c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa4\etapa_4\pila.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"pila.h"
+
+1589839134 source:c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa4\etapa_4\posfija.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"lista.h"
+	"pila.h"
+	"Tokens.h"
+	"posfija.h"
+
+1588811176 source:c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa4\etapa_4\tokens.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Tokens.h"
+

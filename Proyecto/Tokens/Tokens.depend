@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1585528217 source:c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\tokens\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+

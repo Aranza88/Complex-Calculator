@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1588324455 source:c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa3\etapa3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"lista.h"
+
+1588320254 c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa3\etapa3\lista.h
+	"nodo.h"
+
+1588320407 c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa3\etapa3\nodo.h
+
+1588324453 source:c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa3\etapa3\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Nodo.h"
+
+1588323677 source:c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa3\etapa3\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+	"Nodo.h"
+

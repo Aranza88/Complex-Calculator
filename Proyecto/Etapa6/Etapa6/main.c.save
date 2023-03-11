@@ -1,0 +1,60 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include "Tokens.h"
+#include "pila.h"
+#include "lista.h"
+#include "posfija.h"
+#include "operacion.h"
+
+void imprimir(void *a);
+void imprimirVariables(void *a);
+
+int main() {
+    TLista *var = nuevaLista(sizeof(TVariable));
+    char cadena[30]="((3+6)/(1+1))+(7/9)*(1*6/8)";
+    TToken p;
+    int r=1,k=0;//i=0;
+    TLista *listaPosfija;
+    TLista *listaInfija = nuevaLista(sizeof(TToken));
+    printf("\nEvaluador de expresiones aritmeticas\nEstructuras de Datos y Algoritmos I\nUniversidad Nacional Autonoma de Mexico");
+    printf("\nEquipo de:\tAzul,\tAranza,\tKarla,\tCarlos");
+    printf("\nIntroduzca una expresion aritmetica\nPor ejemplo: x =+20^(2/23+2)\nOperadores validos: + - * / ^ =\nAcepta expresiones parentizadas () y variables");
+    printf("\n Escriba Vars para ver las variables actuales\n");
+    while(r==1){
+        printf("\n\nInserte una operacion, con parentesis bien colocados\n\n");
+        scanf("%s",cadena);
+        if(strcmp(cadena,"Vars")==0||strcmp(cadena,"vars")==0&&k==0){
+            printf("\nLas variables son:\n");
+            itera(var,imprimirVariables);
+            k=1;
+        }
+        p = token(cadena);
+        while ((strcmp(p.token, "Termine")) != 0) { //se modifico la condición de ruptura del ciclo comparando con la cadena del campo token
+            agregarNodo(listaInfija,&p);
+            p = token(NULL);
+        }
+        printf("\n***** tokens antes de funcion posfija*******\n");
+        itera(listaInfija,imprimir);
+        printf("***** tokens después de funcion posfija*******\n");
+        /*Esto es lo que debe llevar la función*/
+        listaPosfija =posfija(listaInfija);
+        itera(listaPosfija,imprimir);
+        if (k!=1)
+        {
+            answer(listaPosfija,var);
+        }
+        k=0;
+        printf("\n\n Desea volver a realizar una operacion?\n1)Si\t\t2)No\n--->");
+        fflush(stdin);
+        scanf("%i",&r);
+    }
+    return 0;
+}
+
+void imprimir(void *a)  {
+  printf("token: %s [%s]\n",strToken[((TToken *)a)->tipo],((TToken *)a)->token);
+}
+void imprimirVariables(void *a)  {
+  printf("Variable: %s \tValor: [%f]\n",((TVariable *)a)->Nombre,((TVariable *)a)->Cantidad);
+}

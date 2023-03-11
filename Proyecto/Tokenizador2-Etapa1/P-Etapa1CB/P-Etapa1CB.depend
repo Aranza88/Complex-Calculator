@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1587268640 source:c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\tokenizador2-etapa1\p-estapa1cb\tokens.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Tokens.h"
+
+1587267655 c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\tokenizador2-etapa1\p-estapa1cb\tokens.h
+
+1587267686 source:c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\tokenizador2-etapa1\p-estapa1cb\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Tokens.h"
+
+1587272074 source:c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\tokenizador2-etapa1\p-etapa1cb\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Tokens.h"
+
+1587269723 c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\tokenizador2-etapa1\p-etapa1cb\tokens.h
+
+1587269784 source:c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\tokenizador2-etapa1\p-etapa1cb\tokens.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Tokens.h"
+

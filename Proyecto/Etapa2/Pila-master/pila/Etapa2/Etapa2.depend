@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1587862896 source:c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa2\pila-master\pila\etapa2\main.c
+	<stdio.h>
+	"pila.h"
+
+1587768201 c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa2\pila-master\pila\etapa2\pila.h
+
+1587863334 source:c:\users\abril\documents\uni\2do semestre\estructuras de datos y algoritmos i\proyecto\etapa2\pila-master\pila\etapa2\pila.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"pila.h"
+
